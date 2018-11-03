@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1190293853",
+    "hash" : "104403953",
     "id" : "52AA1A74",
-    "lastKnownWriteTime" : 1541236272,
-    "last_content_update" : 1541236272352,
+    "lastKnownWriteTime" : 1541250553,
+    "last_content_update" : 1541250553225,
     "path" : "E:/RProj/Jinli/algorithm.R",
     "project_path" : "algorithm.R",
     "properties" : {
-        "cursorPosition" : "6,0",
+        "cursorPosition" : "14,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
