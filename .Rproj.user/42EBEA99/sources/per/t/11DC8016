@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541215637421.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3910278170",
+    "id" : "11DC8016",
+    "lastKnownWriteTime" : 1541215881,
+    "last_content_update" : 1541215882009,
+    "path" : "D:/RProj/Jinli/helper.R",
+    "project_path" : "helper.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

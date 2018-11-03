@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541215728764.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF139F3A",
+    "lastKnownWriteTime" : 2318319521004540997,
+    "last_content_update" : 1541215728764,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "645B1690",
+        "caption" : "candidates",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=candidates&cache_key=645B1690",
+        "displayedObservations" : "1800",
+        "environment" : "",
+        "object" : "candidates",
+        "preview" : "0",
+        "totalObservations" : "1800",
+        "variables" : "2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

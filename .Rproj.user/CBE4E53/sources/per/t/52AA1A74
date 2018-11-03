@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541231429152.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1190293853",
+    "id" : "52AA1A74",
+    "lastKnownWriteTime" : 1541236272,
+    "last_content_update" : 1541236272352,
+    "path" : "E:/RProj/Jinli/algorithm.R",
+    "project_path" : "algorithm.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

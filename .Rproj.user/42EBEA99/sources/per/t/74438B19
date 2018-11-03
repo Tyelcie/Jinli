@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541215618055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "285020034",
+    "id" : "74438B19",
+    "lastKnownWriteTime" : 1541215885,
+    "last_content_update" : 1541215885511,
+    "path" : "D:/RProj/Jinli/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

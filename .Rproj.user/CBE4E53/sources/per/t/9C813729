@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541231553589.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9C813729",
+    "lastKnownWriteTime" : 3419473787924512768,
+    "last_content_update" : 1541231553589,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "70B55D11",
+        "caption" : "awards",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=awards&cache_key=70B55D11",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "awards",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
