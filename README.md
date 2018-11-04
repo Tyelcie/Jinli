@@ -5,6 +5,5 @@ Fancy Carp
 # Reference
 
 
-follow this instruction:
-
-ipub.com/shiny-crud-app/
+This project follows the method introduced here:
+(ipub.com/shiny-crud-app/)
