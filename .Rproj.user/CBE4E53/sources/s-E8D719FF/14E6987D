@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2474594194",
     "id" : "14E6987D",
-    "lastKnownWriteTime" : 1541311700,
-    "last_content_update" : 1541311700,
+    "lastKnownWriteTime" : 1541326329,
+    "last_content_update" : 1541326329856,
     "path" : "E:/RProj/Jinli/app.R",
     "project_path" : "app.R",
     "properties" : {
-        "cursorPosition" : "35,0",
+        "cursorPosition" : "21,34",
         "scrollLine" : "5"
     },
-    "relative_order" : 6,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

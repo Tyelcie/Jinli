@@ -2,34 +2,35 @@ library(shiny)
 source('helper.R')
 
 ui <- fluidPage(
-   
-   # Application title
    titlePanel("解螺旋锦鲤"),
-   
-   # Sidebar with a slider input for number of bins 
+
    sidebarLayout(
       sidebarPanel(
         dataTableOutput('candidates')
       ),
-      
-      # Show a plot of the generated distribution
       mainPanel(
-        submitButton('go', '抽大奖'),
-        dataTableOutput('results')
+        actionButton('new', 'new'),
+        actionButton('refresh', 'refresh'),
+        plotOutput('results')
       )
    )
 )
 
 server <- function(input, output, session) {
-  output$candidates <- renderDataTable(candidates)
-  observeEvent(input$go, {
-    
-    output$results <- renderDataTable({
-      Awards <- candidates[sample(candidates$Phone,1),]
-      candidates <- candidates[-match(awards$Phone, candidates$Phone),]
-      results <- rbind(results,Awards)})
+  output$candidates <- renderDataTable(candidates, options = list(pageLength = 10))
+  observeEvent(input$new, {
+    id <- sample(candidates$ID, 1)
+    temp <- candidates[id,]
+    DeleteData(id)
+    output$results <- renderPlot({
+      plot.new()
+      text(0.5,0.5, paste0('Phone: ', temp$Phone, cex = 3))
+      #text(0.5,0.3, paste0('ID: ', temp$ID, cex = 2))
+    })
+    observeEvent(input$refresh,{
+      session$reload()
+    })
   })
-  results <- results
 }
 
 
