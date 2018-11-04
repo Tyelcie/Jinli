@@ -1,4 +1,5 @@
 source('helper.R')
+
 if(TRUE){
   awards <- candidates[candidates$Phone == sample(candidates$Phone, 1),]
   candidates <- setdiff(candidates, awards)
