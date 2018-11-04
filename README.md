@@ -7,4 +7,4 @@ Fancy Carp
 
 This project follows the method introduced here:
 
-[ipub.com/shiny-crud-app/]
+https://ipub.com/shiny-crud-app/
