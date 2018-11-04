@@ -4,7 +4,7 @@ results <- data.frame(Name = NULL, Phone = NULL)
 
 # read
 # read data from inputs
-CastData <- fuction(data){
+CastData <- function(data){
   results <- data.frame(Name = data['Name'],
                         Phone = data['Phone'])
   rownames(results) <- data['id']
@@ -12,7 +12,7 @@ CastData <- fuction(data){
 }
 
 # create default record when click 'new' button
-CreateDefaultRecord <- fuction(){
+CreateDefaultRecord <- function(){
   mydefault <- CastData(list(id = '0', Name = '', Phone = ''))
   return(mydefault)
 }
