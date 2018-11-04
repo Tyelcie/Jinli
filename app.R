@@ -9,8 +9,8 @@ ui <- fluidPage(
         dataTableOutput('candidates')
       ),
       mainPanel(
-        actionButton('new', 'new'),
-        actionButton('refresh', 'refresh'),
+        actionButton('new', '抽大奖'),
+        actionButton('refresh', '再来一个'),
         plotOutput('results')
       )
    )
