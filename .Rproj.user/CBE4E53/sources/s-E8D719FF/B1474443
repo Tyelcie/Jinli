@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2889079084",
+    "hash" : "0",
     "id" : "B1474443",
-    "lastKnownWriteTime" : 1541311130,
-    "last_content_update" : 1541311130587,
+    "lastKnownWriteTime" : 1541316469,
+    "last_content_update" : 1541316469782,
     "path" : "E:/RProj/Jinli/helper.R",
     "project_path" : "helper.R",
     "properties" : {
-        "cursorPosition" : "2,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "38,8",
+        "scrollLine" : "25"
     },
     "relative_order" : 2,
     "source_on_save" : false,
