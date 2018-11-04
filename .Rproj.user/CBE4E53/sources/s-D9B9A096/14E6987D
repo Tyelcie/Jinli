@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "14E6987D",
-    "lastKnownWriteTime" : 1541326458,
-    "last_content_update" : 1541326458389,
+    "lastKnownWriteTime" : 1541347839,
+    "last_content_update" : 1541347839091,
     "path" : "E:/RProj/Jinli/app.R",
     "project_path" : "app.R",
     "properties" : {
-        "cursorPosition" : "37,0",
-        "scrollLine" : "5"
+        "cursorPosition" : "35,36",
+        "scrollLine" : "12"
     },
     "relative_order" : 2,
     "source_on_save" : false,
