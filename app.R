@@ -4,7 +4,7 @@ library(gganimate)
 source('helper.R')
 
 ui <- fluidPage(
-   titlePanel("解螺旋锦鲤"),
+   titlePanel("Fancy Carp"),
 
    sidebarLayout(
       sidebarPanel(
@@ -13,9 +13,9 @@ ui <- fluidPage(
       mainPanel(
                  plotOutput('award'),
                  tags$hr(),
-                 actionButton('normal', '抽小奖'),
-                 actionButton('refresh', '再来一个'),
-                 actionButton('special', '抽大奖'))
+                 actionButton('normal', 'Normal'),
+                 actionButton('refresh', 'Another'),
+                 actionButton('special', 'Speciala'))
    )
 )
 
