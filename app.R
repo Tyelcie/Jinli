@@ -4,7 +4,7 @@ library(gganimate)
 source('helper.R')
 
 ui <- fluidPage(
-   titlePanel("Fancy Carp"),
+   titlePanel("Fancy Carps"),
 
    sidebarLayout(
       sidebarPanel(
@@ -15,7 +15,7 @@ ui <- fluidPage(
                  tags$hr(),
                  actionButton('normal', 'Normal'),
                  actionButton('refresh', 'Another'),
-                 actionButton('special', 'Speciala'))
+                 actionButton('special', 'Special'))
    )
 )
 
